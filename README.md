@@ -3,6 +3,8 @@ Collection of common programming language emojis for use in tandem with the Disc
 
 Read more about the purpose [here](https://www.murphyandhislaw.com/blog/how-to-run-a-digital-hackathon)
 
+![](example.png)
+
 ## Included emojis
 
 **Programming Languages/frameworks**
